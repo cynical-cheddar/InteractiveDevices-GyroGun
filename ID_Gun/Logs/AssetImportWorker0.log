@@ -1,0 +1,367 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.23f1 (9636b062134a) revision 9844400'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 32452 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/xz18677/ID_Gun
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54989
+Successfully changed project path to: C:/Users/xz18677/ID_Gun
+C:/Users/xz18677/ID_Gun
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 91.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.23f1 (9636b062134a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/xz18677/ID_Gun/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX550 (ID=0x1f9f)
+    Vendor:   NVIDIA
+    VRAM:     1919 MB
+    Driver:   31.0.15.3645
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.010903 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Domain Reload Profiling:
+	ReloadAssembly (739ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (538ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (144ms)
+				TypeCache.Initialize (144ms)
+					TypeCache.ScanAssembly (143ms)
+				ResolveRequiredComponents (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (324ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (63ms)
+				SetLoadedEditorAssemblies (11ms)
+				RefreshPlugins (88ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (99ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004516 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\xz18677\ID_Gun\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\xz18677\ID_Gun\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1358ms)
+		BeginReloadAssembly (234ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (135ms)
+		EndReloadAssembly (999ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+				TypeCache.Initialize (299ms)
+					TypeCache.ScanAssembly (296ms)
+				ResolveRequiredComponents (3ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (486ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (52ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3385 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (58.2 KB). Loaded Objects now: 3848.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 2.574000 ms (FindLiveObjects: 0.172600 ms CreateObjectMapping: 0.105700 ms MarkObjects: 2.232100 ms  DeleteObjects: 0.062800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 263936.650197 seconds.
+  path: Assets/YellowFireRocketImpactV3.prefab
+  artifactKey: Guid(d68c0fa57378eb94abad2c59ce1ac54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YellowFireRocketImpactV3.prefab using Guid(d68c0fa57378eb94abad2c59ce1ac54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67c9112cf441d42e26a37b5b3247b3e') in 0.144936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.860069 seconds.
+  path: Assets/YellowFireSmallMuzzleFlash.prefab
+  artifactKey: Guid(edea8958165faad4ba741d714b996844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YellowFireSmallMuzzleFlash.prefab using Guid(edea8958165faad4ba741d714b996844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f377223dc5bffcaab84077604338e8') in 0.031578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.492963 seconds.
+  path: Assets/Audio/Weapons/Homemade Library/potato/powercore.wav
+  artifactKey: Guid(a6a10cfd6e970ca43b1e752344cc5a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Weapons/Homemade Library/potato/powercore.wav using Guid(a6a10cfd6e970ca43b1e752344cc5a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4aa3f0de4fdf7394e5b0a5a9a472274') in 0.060211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.107434 seconds.
+  path: Assets/Audio/Weapons/StockLibrary/targetLock.mp3
+  artifactKey: Guid(d532aedb2df08cc48ac794e2af085d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Weapons/StockLibrary/targetLock.mp3 using Guid(d532aedb2df08cc48ac794e2af085d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed0a9480db6851f9be3bf98e25ae753') in 0.018107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Audio/Announcer/Test/timer/victory.mp3
+  artifactKey: Guid(7218d5741d3c170428bdc4ddf0d9c43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/timer/victory.mp3 using Guid(7218d5741d3c170428bdc4ddf0d9c43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c2eb0af8a776b5a1b07b7338e3740a') in 0.015946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002555 seconds.
+  path: Assets/Audio/Explosions/potatoLoop.mp3
+  artifactKey: Guid(bf3e8b5f12f8f20439027b94e0933cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Explosions/potatoLoop.mp3 using Guid(bf3e8b5f12f8f20439027b94e0933cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0948deff4f00dff2ca308814ede8a2') in 0.016507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Audio/Weapons/Homemade Library/potato/potatoTeslaStart.mp3
+  artifactKey: Guid(67b018410793a814b8879271567cfad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Weapons/Homemade Library/potato/potatoTeslaStart.mp3 using Guid(67b018410793a814b8879271567cfad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c933b1bc3ef6814ee76481b4117a8e') in 0.014207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.121658 seconds.
+  path: Assets/Audio/Weapons/Homemade Library/Impact/Crash/MediumCarCrash.mp3
+  artifactKey: Guid(7c56404b2de7e6448bca7d8200c52753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Weapons/Homemade Library/Impact/Crash/MediumCarCrash.mp3 using Guid(7c56404b2de7e6448bca7d8200c52753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8cc2ce14a1d1f13651073f0fde851c') in 0.016442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Audio/Announcer/Test/PotatoDrop/otherdrop1.mp3
+  artifactKey: Guid(bd8235686c4dfef44895e4aec804eb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/PotatoDrop/otherdrop1.mp3 using Guid(bd8235686c4dfef44895e4aec804eb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecdc56c31f4fa35c25e706526898cdc') in 0.016245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup3.mp3
+  artifactKey: Guid(1890110ba6079164c82bf989b68cba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup3.mp3 using Guid(1890110ba6079164c82bf989b68cba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50d913b021dd076b95a2cd0b2c84fb7') in 0.021111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup2.mp3
+  artifactKey: Guid(7e5a87eaf301bbd44a7c1689110644ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup2.mp3 using Guid(7e5a87eaf301bbd44a7c1689110644ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794755713d703e5e05364887fbce38ea') in 0.019357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup1.mp3
+  artifactKey: Guid(3c6f6a5552fb9e64ca4ba7a89f286618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/PotatoPickup/OtherPickup1.mp3 using Guid(3c6f6a5552fb9e64ca4ba7a89f286618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86aa18b6896403888cff3fe91578db05') in 0.020803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.726247 seconds.
+  path: Assets/Audio/Explosions/HomeMadeLibrary/lightning.mp3
+  artifactKey: Guid(cfb6a097b6aac5248b7e50227e663224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Explosions/HomeMadeLibrary/lightning.mp3 using Guid(cfb6a097b6aac5248b7e50227e663224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee1347c0335e65ddcd8ad7963053a02') in 0.025402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Audio/Announcer/Test/PotatoDrop/localDrop.mp3
+  artifactKey: Guid(36fcbc26aeda8e54ca32a791c30eb54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/PotatoDrop/localDrop.mp3 using Guid(36fcbc26aeda8e54ca32a791c30eb54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c452672aeb629905bff411b8b3f20bf') in 0.016409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Audio/Music/Viv/MapTrack2.mp3
+  artifactKey: Guid(df4362f0498bad849bcb3c5e14059353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Viv/MapTrack2.mp3 using Guid(df4362f0498bad849bcb3c5e14059353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c5f9a4305ce5985b9731e791a1e67e') in 0.019319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Audio/markHit.mp3
+  artifactKey: Guid(9c90f70031e4ad34da3cd49ea1ab1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/markHit.mp3 using Guid(9c90f70031e4ad34da3cd49ea1ab1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b18f288b25e48c8222404aa499b25f') in 0.017227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Audio/Music/Matt/InsaneIan_Garage1.wav
+  artifactKey: Guid(55d021491caf4f541ac620fd36af8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Matt/InsaneIan_Garage1.wav using Guid(55d021491caf4f541ac620fd36af8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41ccc7e890f4a218c0212d4cb767ad1') in 0.019717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Audio/Music/Matt/InsaneIan_Losing3.wav
+  artifactKey: Guid(88ad4b14139c4ff48b8d53b9063a504c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Matt/InsaneIan_Losing3.wav using Guid(88ad4b14139c4ff48b8d53b9063a504c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943539e2f2231b8e03c81cfa7b632759') in 0.017158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Audio/Music/Matt/InsaneIan_Lobby4.wav
+  artifactKey: Guid(2566f6ab704b81b4385538e5af685e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Matt/InsaneIan_Lobby4.wav using Guid(2566f6ab704b81b4385538e5af685e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dca8ce0a5dd70e65f6600f7283b623d') in 0.018479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.384243 seconds.
+  path: Assets/Audio/Announcer/Test/die/dieOther5.mp3
+  artifactKey: Guid(60ec8c42c19538542b310a0090c7f09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/die/dieOther5.mp3 using Guid(60ec8c42c19538542b310a0090c7f09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162f2643f001f09ee6be01460881bb33') in 0.017854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Audio/Explosions/HomeMadeLibrary/etg_explode_small_firey3.wav
+  artifactKey: Guid(02bdb9b3dfe12e945a63a5b500b1f865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Explosions/HomeMadeLibrary/etg_explode_small_firey3.wav using Guid(02bdb9b3dfe12e945a63a5b500b1f865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b2bd27f23cb9dea1e0f5f4a32b037e') in 0.019513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Audio/Weapons/StockLibrary/Impact/fire_impact.wav
+  artifactKey: Guid(e9c249c9d073d2647b12578e32521b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Weapons/StockLibrary/Impact/fire_impact.wav using Guid(e9c249c9d073d2647b12578e32521b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee0aa8aec483e11201776103af5703a') in 0.018340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Audio/EngineSounds/High.wav
+  artifactKey: Guid(79756c46e3645ae4faa055f7060a89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/EngineSounds/High.wav using Guid(79756c46e3645ae4faa055f7060a89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98549c8690f9468c2b70077efd6fa934') in 0.018693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.447064 seconds.
+  path: Assets/Audio/EngineSounds/Custom Nitro Sound Jordan.mp3
+  artifactKey: Guid(4e319d28d05e3f04780b6cfc108ff96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/EngineSounds/Custom Nitro Sound Jordan.mp3 using Guid(4e319d28d05e3f04780b6cfc108ff96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d9a054710dbb87803e7ed9681efd9a') in 0.017499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Audio/Announcer/Test/die/dieLocal1.mp3
+  artifactKey: Guid(4f93ad6968c315c488669d685a20f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/die/dieLocal1.mp3 using Guid(4f93ad6968c315c488669d685a20f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d15d5c36514a561bacf6ca41c24e0b') in 0.019912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Audio/Announcer/Test/die/dieOther3.mp3
+  artifactKey: Guid(43b0d398514fbc14bbe690cfdc22f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/die/dieOther3.mp3 using Guid(43b0d398514fbc14bbe690cfdc22f08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd2bd503d293d9dbde3fd29f7d1df37') in 0.017383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Audio/Announcer/Test/die/dieOther4.mp3
+  artifactKey: Guid(f4451e1d8bbfa5f49aff19401d05011c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/die/dieOther4.mp3 using Guid(f4451e1d8bbfa5f49aff19401d05011c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7208a8161c0ba7f6c06093d2a178756') in 0.016574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Audio/Announcer/Test/timer/3min.mp3
+  artifactKey: Guid(277debfb1d19e224ea942b589d4c3455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/timer/3min.mp3 using Guid(277debfb1d19e224ea942b589d4c3455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452587d1581dcf0cade053d8a702e140') in 0.017656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Audio/Announcer/Test/timer/30s.mp3
+  artifactKey: Guid(8e881916ab48adc4aa0f0151fbcd16c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/timer/30s.mp3 using Guid(8e881916ab48adc4aa0f0151fbcd16c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1359da0043c757839838337086ca03b') in 0.017260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Audio/Announcer/Test/timer/2min.mp3
+  artifactKey: Guid(8dd14363b2b21af4eafc495c71a3df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Announcer/Test/timer/2min.mp3 using Guid(8dd14363b2b21af4eafc495c71a3df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fb78d85d2f9bbb4c9500545e4d8aff') in 0.019393 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
