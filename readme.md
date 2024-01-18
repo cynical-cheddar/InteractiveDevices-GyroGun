@@ -9,7 +9,7 @@ It utilises an Arduino Micro, RFM69HCW Radio Breakout Board, and MPU-6050 to cre
 # ASTEROID BLASTER
 
 
-![alt text](https://github.com/cynical-cheddar/InteractiveDevices-GyroGun/blob/main/Asteroid%20Blaster.PNG?raw=true)
+![Asteroid Blaster](https://imgur.com/a/2n3WK1W)
 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
