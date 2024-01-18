@@ -8,6 +8,7 @@ It utilises an Arduino Micro, RFM69HCW Radio Breakout Board, and MPU-6050 to cre
 The Gyro Gun utilises a 9V D battery. This directly powers the haptic feedback solenoid. The voltage is stepped down through a DC-DC buck converter to 5V, powering the Arduino and relays.
 
 
+![alt text](https://i.imgur.com/YfmnCgU.png)
 ![alt text](https://i.imgur.com/hHACRT0.png)
 
 # ASTEROID BLASTER
