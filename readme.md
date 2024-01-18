@@ -9,6 +9,6 @@ It utilises an Arduino Micro, RFM69HCW Radio Breakout Board, and MPU-6050 to cre
 # ASTEROID BLASTER
 
 
-![Asteroid Blaster](https://imgur.com/IOwuqYb)
+![Asteroid Blaster](https://i.imgur.com/IOwuqYb)
 
 
